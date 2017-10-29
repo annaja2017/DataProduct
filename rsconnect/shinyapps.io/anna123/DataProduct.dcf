@@ -1,0 +1,12 @@
+name: DataProduct
+title: DataProduct
+username:
+account: anna123
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 230270
+bundleId: 1050681
+url: https://anna123.shinyapps.io/DataProduct/
+when: 1509293001.68658
+asMultiple: FALSE
+asStatic: FALSE

@@ -28,7 +28,7 @@ shinyUI(fluidPage(
                    c("red" = "red",
                      "blue" = "blue",
                      "green" = "green"),
-                   selected = 'blue')
+                   selected = 'red')
              
     ),
     
